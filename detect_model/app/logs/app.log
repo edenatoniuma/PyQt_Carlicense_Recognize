@@ -1,0 +1,287 @@
+2024-06-24 11:49:27,574 - log - INFO - Application started
+2024-06-24 11:49:27,616 - log - INFO - initialize database successful
+2024-06-24 11:49:35,192 - log - INFO - open choice function window successful
+2024-06-24 11:49:38,353 - matplotlib - DEBUG - matplotlib data path: E:\Anaconda3\envs\yolov8\lib\site-packages\matplotlib\mpl-data
+2024-06-24 11:49:38,364 - matplotlib - DEBUG - CONFIGDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 11:49:38,366 - matplotlib - DEBUG - interactive is False
+2024-06-24 11:49:38,366 - matplotlib - DEBUG - platform is win32
+2024-06-24 11:49:38,421 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 11:49:38,432 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-06-24 11:49:45,019 - choice_fun_log - INFO - open detect window successful
+2024-06-24 15:06:17,737 - log - INFO - Application started
+2024-06-24 15:06:17,812 - log - INFO - initialize database successful
+2024-06-24 15:06:26,464 - log - INFO - open choice function window successful
+2024-06-24 15:06:57,353 - log - INFO - Application started
+2024-06-24 15:06:57,385 - log - INFO - initialize database successful
+2024-06-24 15:07:04,923 - log - INFO - open choice function window successful
+2024-06-24 15:07:33,545 - log - INFO - Application started
+2024-06-24 15:07:33,580 - log - INFO - initialize database successful
+2024-06-24 15:07:41,993 - log - INFO - open choice function window successful
+2024-06-24 15:13:04,433 - log - INFO - Application started
+2024-06-24 15:13:04,468 - log - INFO - initialize database successful
+2024-06-24 15:13:12,104 - log - INFO - open choice function window successful
+2024-06-24 15:13:16,934 - choice_fun_log - INFO - check log successful
+2024-06-24 15:14:27,722 - log - INFO - Application started
+2024-06-24 15:14:27,766 - log - INFO - initialize database successful
+2024-06-24 15:14:30,133 - log - INFO - open register window successful
+2024-06-24 15:14:39,024 - log - INFO - Application started
+2024-06-24 15:14:39,030 - log - INFO - initialize database successful
+2024-06-24 15:14:46,911 - log - INFO - open choice function window successful
+2024-06-24 15:44:27,667 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:44:30,579 - manage_user_log - INFO - search users successful
+2024-06-24 15:44:40,545 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:44:41,983 - manage_user_log - INFO - search users successful
+2024-06-24 15:45:03,793 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:49:46,148 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:49:47,432 - manage_user_log - INFO - search users successful
+2024-06-24 15:50:04,302 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:50:05,844 - manage_user_log - INFO - search users successful
+2024-06-24 15:51:25,241 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:51:41,299 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:55:57,051 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:56:55,973 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:57:57,965 - manage_user_log - INFO - initialize database successful
+2024-06-24 15:58:53,143 - manage_user_log - INFO - search users successful
+2024-06-24 16:05:15,617 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:05:25,119 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:05:26,600 - manage_user_log - INFO - search users successful
+2024-06-24 16:09:06,066 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:09:34,314 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:09:56,119 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:10:15,655 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:10:56,042 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:11:40,685 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:12:53,709 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:13:21,624 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:13:58,575 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:14:41,499 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:14:42,551 - manage_user_log - INFO - search users successful
+2024-06-24 16:15:11,828 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:15:12,947 - manage_user_log - INFO - search users successful
+2024-06-24 16:16:08,881 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:16:10,469 - manage_user_log - INFO - search users successful
+2024-06-24 16:16:26,647 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:16:28,092 - manage_user_log - INFO - search users successful
+2024-06-24 16:16:39,180 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:16:40,456 - manage_user_log - INFO - search users successful
+2024-06-24 16:23:43,443 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:23:44,729 - manage_user_log - INFO - load data successful
+2024-06-24 16:23:57,710 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:23:58,922 - manage_user_log - INFO - load data successful
+2024-06-24 16:25:20,496 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:25:21,803 - manage_user_log - INFO - load data successful
+2024-06-24 16:37:04,920 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:37:06,088 - manage_user_log - INFO - load data successful
+2024-06-24 16:39:29,351 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:39:30,665 - manage_user_log - INFO - load data successful
+2024-06-24 16:39:41,065 - manage_user_log - INFO - load data successful
+2024-06-24 16:42:09,679 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:42:11,218 - manage_user_log - INFO - load data successful
+2024-06-24 16:42:27,773 - manage_user_log - INFO - load data successful
+2024-06-24 16:45:26,930 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:45:28,548 - manage_user_log - INFO - load data successful
+2024-06-24 16:45:40,390 - manage_user_log - INFO - load data successful
+2024-06-24 16:49:41,026 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:49:42,727 - manage_user_log - INFO - load data successful
+2024-06-24 16:50:10,446 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:50:11,716 - manage_user_log - INFO - load data successful
+2024-06-24 16:50:39,673 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:50:40,866 - manage_user_log - INFO - load data successful
+2024-06-24 16:50:50,327 - manage_user_log - INFO - load data successful
+2024-06-24 16:53:08,553 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:53:09,864 - manage_user_log - INFO - load data successful
+2024-06-24 16:53:15,914 - manage_user_log - INFO - load data successful
+2024-06-24 16:53:34,540 - manage_user_log - INFO - load data successful
+2024-06-24 16:55:30,652 - log - INFO - Application started
+2024-06-24 16:55:30,692 - log - INFO - initialize database successful
+2024-06-24 16:55:38,865 - log - INFO - open choice function window successful
+2024-06-24 16:56:10,935 - log - INFO - Application started
+2024-06-24 16:56:10,978 - log - INFO - initialize database successful
+2024-06-24 16:56:19,065 - log - INFO - open choice function window successful
+2024-06-24 16:56:20,637 - choice_fun_log - INFO - manage user function started
+2024-06-24 16:56:20,643 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:56:21,576 - manage_user_log - INFO - load data successful
+2024-06-24 16:58:53,105 - log - INFO - Application started
+2024-06-24 16:58:53,148 - log - INFO - initialize database successful
+2024-06-24 16:59:02,110 - log - INFO - open choice function window successful
+2024-06-24 16:59:03,213 - choice_fun_log - INFO - manage user function started
+2024-06-24 16:59:03,218 - manage_user_log - INFO - initialize database successful
+2024-06-24 16:59:04,248 - manage_user_log - INFO - load data successful
+2024-06-24 17:02:32,584 - log - INFO - Application started
+2024-06-24 17:02:32,626 - log - INFO - initialize database successful
+2024-06-24 17:02:40,451 - log - INFO - open choice function window successful
+2024-06-24 17:02:41,429 - choice_fun_log - INFO - manage user function started
+2024-06-24 17:02:41,434 - manage_user_log - INFO - initialize database successful
+2024-06-24 17:02:42,322 - manage_user_log - INFO - load data successful
+2024-06-24 17:07:34,983 - log - INFO - Application started
+2024-06-24 17:07:35,023 - log - INFO - initialize database successful
+2024-06-24 17:07:43,024 - log - INFO - open choice function window successful
+2024-06-24 17:10:33,045 - log - INFO - Application started
+2024-06-24 17:10:33,098 - log - INFO - initialize database successful
+2024-06-24 17:10:40,944 - log - INFO - open choice function window successful
+2024-06-24 17:10:54,951 - choice_fun_log - INFO - manage user function started
+2024-06-24 17:10:54,959 - manage_user_log - INFO - initialize database successful
+2024-06-24 17:10:55,744 - manage_user_log - INFO - load data successful
+2024-06-24 17:14:51,666 - log - INFO - Application started
+2024-06-24 17:14:51,708 - log - INFO - initialize database successful
+2024-06-24 17:15:00,069 - log - INFO - open choice function window successful
+2024-06-24 17:15:00,072 - log - INFO - Application started
+2024-06-24 17:15:00,077 - log - INFO - initialize database successful
+2024-06-24 17:15:32,635 - log - INFO - App shutdown
+2024-06-24 17:15:35,145 - log - INFO - Application started
+2024-06-24 17:15:35,184 - log - INFO - initialize database successful
+2024-06-24 17:15:38,895 - log - INFO - App shutdown
+2024-06-24 17:19:34,166 - manage_user_log - INFO - initialize database successful
+2024-06-24 17:19:35,553 - manage_user_log - INFO - load data successful
+2024-06-24 17:19:42,775 - log - INFO - Application started
+2024-06-24 17:19:42,817 - log - INFO - initialize database successful
+2024-06-24 17:19:50,273 - log - INFO - open choice function window successful
+2024-06-24 17:19:51,370 - choice_fun_log - INFO - manage user function started
+2024-06-24 17:19:51,375 - manage_user_log - INFO - initialize database successful
+2024-06-24 17:19:52,192 - manage_user_log - INFO - load data successful
+2024-06-24 17:20:44,101 - log - INFO - Application started
+2024-06-24 17:20:44,143 - log - INFO - initialize database successful
+2024-06-24 17:20:50,874 - log - INFO - open choice function window successful
+2024-06-24 17:20:53,974 - choice_fun_log - INFO - manage user function started
+2024-06-24 17:20:53,981 - manage_user_log - INFO - initialize database successful
+2024-06-24 17:20:54,808 - manage_user_log - INFO - load data successful
+2024-06-24 17:20:57,143 - choice_fun_log - INFO - check log successful
+2024-06-24 17:23:58,824 - log - INFO - Application started
+2024-06-24 17:23:58,862 - log - INFO - initialize database successful
+2024-06-24 17:24:07,607 - log - INFO - open choice function window successful
+2024-06-24 17:24:09,367 - choice_fun_log - INFO - check log successful
+2024-06-24 17:24:17,537 - log - INFO - Application started
+2024-06-24 17:24:17,574 - log - INFO - initialize database successful
+2024-06-24 17:24:25,840 - log - INFO - open choice function window successful
+2024-06-24 17:24:28,983 - choice_fun_log - INFO - check log successful
+2024-06-24 17:24:48,879 - log - INFO - Application started
+2024-06-24 17:24:48,921 - log - INFO - initialize database successful
+2024-06-24 17:24:55,803 - log - INFO - open choice function window successful
+2024-06-24 17:24:57,001 - choice_fun_log - INFO - check log successful
+2024-06-24 17:25:07,406 - choice_fun_log - INFO - manage user function started
+2024-06-24 17:25:07,412 - manage_user_log - INFO - initialize database successful
+2024-06-24 17:25:08,306 - manage_user_log - INFO - load data successful
+2024-06-24 17:25:30,002 - log - INFO - Application started
+2024-06-24 17:25:30,044 - log - INFO - initialize database successful
+2024-06-24 17:25:37,809 - log - INFO - open register window successful
+2024-06-24 17:25:40,769 - log - INFO - Application started
+2024-06-24 17:25:40,783 - log - INFO - initialize database successful
+2024-06-24 17:25:49,600 - log - INFO - open choice function window successful
+2024-06-24 17:26:03,582 - choice_fun_log - INFO - check log successful
+2024-06-24 17:26:11,792 - choice_fun_log - INFO - manage user function started
+2024-06-24 17:26:11,799 - manage_user_log - INFO - initialize database successful
+2024-06-24 17:26:12,961 - manage_user_log - INFO - load data successful
+2024-06-24 17:26:16,395 - matplotlib - DEBUG - matplotlib data path: E:\Anaconda3\envs\yolov8\lib\site-packages\matplotlib\mpl-data
+2024-06-24 17:26:16,401 - matplotlib - DEBUG - CONFIGDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 17:26:16,403 - matplotlib - DEBUG - interactive is False
+2024-06-24 17:26:16,403 - matplotlib - DEBUG - platform is win32
+2024-06-24 17:26:16,466 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 17:26:16,472 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-06-24 17:26:23,931 - choice_fun_log - INFO - open detect window successful
+2024-06-24 17:31:43,196 - log - INFO - Application started
+2024-06-24 17:31:43,235 - log - INFO - initialize database successful
+2024-06-24 17:31:50,578 - log - INFO - open choice function window successful
+2024-06-24 17:31:52,643 - matplotlib - DEBUG - matplotlib data path: E:\Anaconda3\envs\yolov8\lib\site-packages\matplotlib\mpl-data
+2024-06-24 17:31:52,647 - matplotlib - DEBUG - CONFIGDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 17:31:52,649 - matplotlib - DEBUG - interactive is False
+2024-06-24 17:31:52,649 - matplotlib - DEBUG - platform is win32
+2024-06-24 17:31:52,705 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 17:31:52,710 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-06-24 17:31:57,755 - choice_fun_log - INFO - open detect window successful
+2024-06-24 17:32:02,478 - choice_fun_log - INFO - open detect window successful
+2024-06-24 17:32:04,373 - choice_fun_log - INFO - open detect window successful
+2024-06-24 17:32:05,818 - choice_fun_log - INFO - open detect window successful
+2024-06-24 17:32:07,348 - choice_fun_log - INFO - open detect window successful
+2024-06-24 17:32:08,826 - choice_fun_log - INFO - open detect window successful
+2024-06-24 17:36:57,640 - log - INFO - Application started
+2024-06-24 17:36:57,684 - log - INFO - initialize database successful
+2024-06-24 17:37:05,241 - log - INFO - open choice function window successful
+2024-06-24 17:37:09,158 - matplotlib - DEBUG - matplotlib data path: E:\Anaconda3\envs\yolov8\lib\site-packages\matplotlib\mpl-data
+2024-06-24 17:37:09,162 - matplotlib - DEBUG - CONFIGDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 17:37:09,163 - matplotlib - DEBUG - interactive is False
+2024-06-24 17:37:09,163 - matplotlib - DEBUG - platform is win32
+2024-06-24 17:37:09,221 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 17:37:09,226 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-06-24 17:37:14,389 - choice_fun_log - INFO - open detect window successful
+2024-06-24 17:43:34,387 - log - INFO - Application started
+2024-06-24 17:43:34,426 - log - INFO - initialize database successful
+2024-06-24 17:43:44,286 - log - INFO - open choice function window successful
+2024-06-24 17:43:46,503 - matplotlib - DEBUG - matplotlib data path: E:\Anaconda3\envs\yolov8\lib\site-packages\matplotlib\mpl-data
+2024-06-24 17:43:46,508 - matplotlib - DEBUG - CONFIGDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 17:43:46,510 - matplotlib - DEBUG - interactive is False
+2024-06-24 17:43:46,510 - matplotlib - DEBUG - platform is win32
+2024-06-24 17:43:46,565 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-24 17:43:46,570 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-06-24 17:43:51,596 - choice_fun_log - INFO - open detect window successful
+2024-06-25 09:05:12,044 - log - INFO - Application started
+2024-06-25 09:05:12,128 - log - INFO - initialize database successful
+2024-06-25 09:05:23,735 - log - INFO - open choice function window successful
+2024-06-25 09:05:26,248 - choice_fun_log - INFO - check log successful
+2024-06-25 09:05:46,625 - choice_fun_log - INFO - manage user function started
+2024-06-25 09:05:46,640 - manage_user_log - INFO - initialize database successful
+2024-06-25 09:05:47,816 - manage_user_log - INFO - load data successful
+2024-06-25 09:05:54,950 - manage_user_log - INFO - search user:s
+2024-06-25 09:06:25,371 - manage_user_log - INFO - load data successful
+2024-06-25 09:07:17,295 - manage_user_log - INFO - load data successful
+2024-06-25 09:07:29,369 - manage_user_log - INFO - load data successful
+2024-06-25 09:07:38,919 - matplotlib - DEBUG - matplotlib data path: E:\Anaconda3\envs\yolov8\lib\site-packages\matplotlib\mpl-data
+2024-06-25 09:07:38,929 - matplotlib - DEBUG - CONFIGDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-25 09:07:38,932 - matplotlib - DEBUG - interactive is False
+2024-06-25 09:07:38,932 - matplotlib - DEBUG - platform is win32
+2024-06-25 09:07:38,995 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-25 09:07:39,007 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-06-25 09:07:48,183 - choice_fun_log - INFO - open detect window successful
+2024-06-27 11:48:03,419 - log - INFO - Application started
+2024-06-27 11:48:03,525 - log - INFO - initialize database successful
+2024-06-27 11:48:11,388 - log - INFO - open choice function window successful
+2024-06-27 11:48:12,515 - choice_fun_log - INFO - check log successful
+2024-06-27 11:48:19,163 - choice_fun_log - INFO - manage user function started
+2024-06-27 11:48:19,179 - manage_user_log - INFO - initialize database successful
+2024-06-27 11:48:20,099 - manage_user_log - INFO - load data successful
+2024-06-27 11:48:23,294 - matplotlib - DEBUG - matplotlib data path: E:\Anaconda3\envs\yolov8\lib\site-packages\matplotlib\mpl-data
+2024-06-27 11:48:23,305 - matplotlib - DEBUG - CONFIGDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-27 11:48:23,308 - matplotlib - DEBUG - interactive is False
+2024-06-27 11:48:23,308 - matplotlib - DEBUG - platform is win32
+2024-06-27 11:48:23,366 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-27 11:48:23,376 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-06-27 11:48:28,926 - choice_fun_log - INFO - open detect window successful
+2024-06-27 15:44:01,364 - log - INFO - Application started
+2024-06-27 15:44:01,443 - log - INFO - initialize database successful
+2024-06-27 15:44:04,433 - log - INFO - open register window successful
+2024-06-27 15:48:16,682 - log - INFO - Application started
+2024-06-27 15:48:16,688 - log - INFO - initialize database successful
+2024-06-27 15:48:27,634 - log - INFO - open choice function window successful
+2024-06-27 15:49:44,022 - matplotlib - DEBUG - matplotlib data path: E:\Anaconda3\envs\yolov8\lib\site-packages\matplotlib\mpl-data
+2024-06-27 15:49:44,037 - matplotlib - DEBUG - CONFIGDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-27 15:49:44,037 - matplotlib - DEBUG - interactive is False
+2024-06-27 15:49:44,037 - matplotlib - DEBUG - platform is win32
+2024-06-27 15:49:44,096 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-06-27 15:49:44,107 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-06-27 15:49:51,596 - choice_fun_log - INFO - open detect window successful
+2024-06-27 15:52:08,975 - log - INFO - Application started
+2024-06-27 15:52:09,054 - log - INFO - initialize database successful
+2024-06-27 15:52:17,805 - log - INFO - open choice function window successful
+2024-06-27 15:53:14,911 - choice_fun_log - INFO - check log successful
+2024-06-27 15:53:51,181 - choice_fun_log - INFO - manage user function started
+2024-06-27 15:53:51,188 - manage_user_log - INFO - initialize database successful
+2024-06-27 15:53:52,115 - manage_user_log - INFO - load data successful
+2024-06-27 15:57:40,792 - manage_user_log - INFO - load data successful
+2024-07-07 20:53:12,222 - log - INFO - Application started
+2024-07-07 20:53:12,335 - log - INFO - initialize database successful
+2024-07-07 20:53:20,876 - log - INFO - open choice function window successful
+2024-07-07 20:58:45,777 - log - INFO - Application started
+2024-07-07 20:58:45,819 - log - INFO - initialize database successful
+2024-07-07 20:58:53,359 - log - INFO - open choice function window successful
+2024-07-07 20:58:56,015 - matplotlib - DEBUG - matplotlib data path: E:\Anaconda3\envs\yolov8\lib\site-packages\matplotlib\mpl-data
+2024-07-07 20:58:56,027 - matplotlib - DEBUG - CONFIGDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-07-07 20:58:56,031 - matplotlib - DEBUG - interactive is False
+2024-07-07 20:58:56,031 - matplotlib - DEBUG - platform is win32
+2024-07-07 20:58:56,100 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-07-07 20:58:56,112 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-07-07 20:59:05,711 - choice_fun_log - INFO - open detect window successful
+2024-10-23 22:23:24,244 - log - INFO - Application started
+2024-10-23 22:23:24,294 - log - INFO - initialize database successful
+2024-10-23 22:23:32,777 - log - INFO - open choice function window successful
+2024-10-23 22:23:34,837 - matplotlib - DEBUG - CACHEDIR=C:\Users\¸¶³¬¿¡\.matplotlib
+2024-10-23 22:23:34,842 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\¸¶³¬¿¡\.matplotlib\fontlist-v330.json
+2024-10-23 22:23:40,358 - choice_fun_log - INFO - open detect window successful

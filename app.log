@@ -1,0 +1,16 @@
+2024-06-21 10:58:32,815 - __main__ - INFO - Application started
+2024-06-21 10:58:36,886 - __main__ - INFO - Button clicked
+2024-06-21 10:58:36,886 - __main__ - DEBUG - This is a debug message
+2024-06-21 10:58:36,886 - __main__ - WARNING - This is a warning message
+2024-06-21 10:58:36,887 - __main__ - ERROR - This is an error message
+2024-06-21 10:58:36,887 - __main__ - CRITICAL - This is a critical message
+2024-06-21 10:58:45,221 - __main__ - INFO - Button clicked
+2024-06-21 10:58:45,227 - __main__ - DEBUG - This is a debug message
+2024-06-21 10:58:45,227 - __main__ - WARNING - This is a warning message
+2024-06-21 10:58:45,228 - __main__ - ERROR - This is an error message
+2024-06-21 10:58:45,228 - __main__ - CRITICAL - This is a critical message
+2024-06-21 10:58:46,039 - __main__ - INFO - Button clicked
+2024-06-21 10:58:46,041 - __main__ - DEBUG - This is a debug message
+2024-06-21 10:58:46,041 - __main__ - WARNING - This is a warning message
+2024-06-21 10:58:46,041 - __main__ - ERROR - This is an error message
+2024-06-21 10:58:46,041 - __main__ - CRITICAL - This is a critical message

@@ -1,0 +1,12 @@
+# license_plate:
+img_size: [94, 24]
+predict_dir: ./imgs/license_plate
+lpr_max_len: 8
+batch_size: 1
+num_workers: 1
+cuda: True
+show: False
+weights: ./weights/LPRNet__iteration_8000.pth
+# detect:
+yolo_weights: ../runs/detect/train4/weights/best.pt
+save_dir: ./imgs/detect

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Function</class>
+ <widget class="QWidget" name="Function">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>721</width>
+    <height>369</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QPushButton" name="detect_fun_btn">
+     <property name="text">
+      <string>检测功能</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="read_logger_btn">
+     <property name="text">
+      <string>日志查看</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="manage_user_btn">
+     <property name="text">
+      <string>用户管理</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

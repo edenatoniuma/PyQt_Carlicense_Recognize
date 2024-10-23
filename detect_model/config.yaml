@@ -1,0 +1,9 @@
+# license_plate:
+img_size: [94, 24]
+predict_dir: G:/qt_designer/detect_model/imgs/license_plate
+lpr_max_len: 8
+batch_size: 1
+num_workers: 1
+cuda: True
+show: False
+weights: G:/qt_designer/detect_model/weights/LPRNet__iteration_8000.pth
